@@ -1,0 +1,14 @@
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/bin/Debug/netcoreapp2.1/DemoVueSPA.deps.json
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/bin/Debug/netcoreapp2.1/DemoVueSPA.runtimeconfig.json
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/bin/Debug/netcoreapp2.1/DemoVueSPA.runtimeconfig.dev.json
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/bin/Debug/netcoreapp2.1/DemoVueSPA.dll
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/bin/Debug/netcoreapp2.1/DemoVueSPA.pdb
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.csprojAssemblyReference.cache
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.csproj.CoreCompileInputs.cache
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.RazorAssemblyInfo.cache
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.RazorAssemblyInfo.cs
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.AssemblyInfoInputs.cache
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.AssemblyInfo.cs
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.RazorTargetAssemblyInfo.cache
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.dll
+/Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.pdb

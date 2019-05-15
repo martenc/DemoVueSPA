@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="DemoVueSPA" t="IncludeRecursive">
+        <e p="App" t="Include">
+          <e p="App.vue" t="Include" />
+          <e p="Build" t="Include">
+            <e p="Config.js" t="Include" />
+            <e p="webpack.config.js" t="Include" />
+          </e>
+          <e p="main.js" t="Include" />
+          <e p="Pages" t="Include">
+            <e p="PageA.vue" t="Include" />
+            <e p="PageB.vue" t="Include" />
+          </e>
+          <e p="router.js" t="Include" />
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="DemoVueSPA.csproj" t="IncludeRecursive" />
+        <e p="node_modules/babel-core" t="IncludeRecursive" />
+        <e p="node_modules/babel-loader" t="IncludeRecursive" />
+        <e p="node_modules/babel-preset-es2015" t="IncludeRecursive" />
+        <e p="node_modules/cross-env" t="IncludeRecursive" />
+        <e p="node_modules/css-loader" t="IncludeRecursive" />
+        <e p="node_modules/eslint" t="IncludeRecursive" />
+        <e p="node_modules/eslint-friendly-formatter" t="IncludeRecursive" />
+        <e p="node_modules/eslint-loader" t="IncludeRecursive" />
+        <e p="node_modules/file-save" t="IncludeRecursive" />
+        <e p="node_modules/html-webpack-plugin" t="IncludeRecursive" />
+        <e p="node_modules/path" t="IncludeRecursive" />
+        <e p="node_modules/vue" t="IncludeRecursive" />
+        <e p="node_modules/vue-loader" t="IncludeRecursive" />
+        <e p="node_modules/vue-router" t="IncludeRecursive" />
+        <e p="node_modules/vue-style-loader" t="IncludeRecursive" />
+        <e p="node_modules/vue-template-compiler" t="IncludeRecursive" />
+        <e p="node_modules/webpack" t="IncludeRecursive" />
+        <e p="node_modules/webpack-cli" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="DemoVueSPA.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="index.html" t="Include" />
+          <e p="js" t="Include">
+            <e p="app-settings.js" t="Include" />
+            <e p="bundle.js" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="DemoVueSPA.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_DemoVueSPA.259555812.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AC425182-EEFC-44B2-8EB3-78CF6A4FD816}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoVueSPA/package.json">
+    <Files>
+      <File FileName="DemoVueSPA/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="DemoVueSPA/Startup.cs" Line="1" Column="1" />
+      <File FileName="DemoVueSPA/Program.cs" Line="1" Column="1" />
+      <File FileName="DemoVueSPA/package.json" Line="32" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoVueSPA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
