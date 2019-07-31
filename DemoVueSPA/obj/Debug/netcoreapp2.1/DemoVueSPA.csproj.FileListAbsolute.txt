@@ -12,3 +12,17 @@
 /Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.RazorTargetAssemblyInfo.cache
 /Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.dll
 /Users/marten/Documents/_Development/_demo/DemoVueSPA/DemoVueSPA/DemoVueSPA/obj/Debug/netcoreapp2.1/DemoVueSPA.pdb
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\bin\Debug\netcoreapp2.1\DemoVueSPA.deps.json
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\bin\Debug\netcoreapp2.1\DemoVueSPA.runtimeconfig.json
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\bin\Debug\netcoreapp2.1\DemoVueSPA.runtimeconfig.dev.json
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\bin\Debug\netcoreapp2.1\DemoVueSPA.dll
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\bin\Debug\netcoreapp2.1\DemoVueSPA.pdb
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.csprojAssemblyReference.cache
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.csproj.CoreCompileInputs.cache
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.RazorAssemblyInfo.cache
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.RazorAssemblyInfo.cs
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.AssemblyInfoInputs.cache
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.AssemblyInfo.cs
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.RazorTargetAssemblyInfo.cache
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.dll
+C:\Users\MaCompoc\Documents (local drive)\_development\_demo\DemoVueSPA\DemoVueSPA\obj\Debug\netcoreapp2.1\DemoVueSPA.pdb
